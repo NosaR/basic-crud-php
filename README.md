@@ -1,2 +1,4 @@
-# Tugas 1 PWPB (Pak Renan) Basic Crud PHP
-Tugas Web (Basic CRUD Web dengan Bootstrap dan PHP)
+# Tugas PWPB (Pak Renan) 
+1. Tugas Web (Basic CRUD Web dengan Bootstrap dan PHP)
+2. Membuat Aplikasi Sederhana dengan Laravel PART 1
+
